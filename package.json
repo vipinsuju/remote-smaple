@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "preview-component": "git+https://github.com/vipinsuju/remote-smaple.git"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
